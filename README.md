@@ -62,9 +62,6 @@ The MySQL table created in `createdatabase.py` has the following structure:
 ## 🤝 Contributing
 Feel free to contribute by adding features or improving the project. Fork the repository and submit a pull request with your changes.
 
-## 📜 License
-This project is open-source and available under the MIT License.
-
 ## 📧 Contact
-For any inquiries or support, please reach out to [Your Contact Information].
+For any inquiries or support, please reach out to [adelodungbanjubola@gmail.com].
 
