@@ -1,0 +1,1 @@
+host = 'localhost', password = 'Password@3103', user = 'root', database = database)
